@@ -23,9 +23,11 @@ Make sure you have the following installed:
 
 2. **Install dependecies:**
     ```sh
+    
     npm install
     
 3.**Run the application:**
 
     ```sh
+    
     npm run dev
