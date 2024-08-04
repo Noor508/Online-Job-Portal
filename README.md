@@ -29,5 +29,4 @@ Make sure you have the following installed:
 3.**Run the application:**
 
     ```sh
-    
-    npm run dev
+   npm run dev
