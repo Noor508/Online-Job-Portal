@@ -27,6 +27,5 @@ Make sure you have the following installed:
     npm install
     
 3.**Run the application:**
-
     ```sh
    npm run dev
