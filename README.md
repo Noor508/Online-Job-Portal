@@ -21,9 +21,10 @@ Make sure you have the following installed:
    git clone https://github.com/your-username/my-react-app.git
    cd my-react-app
 
-2.Install dependecies 
+2. **Install dependecies:**
     ```sh
     npm install
-3. Run the application
+    
+3.**Run the application:**
     ```sh
     npm run dev
